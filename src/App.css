@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#zunair{
+  background-color: #282c34;
+}
+#name{
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  font-weight: 800;
+}
+#zunn{
+  color: white;
+  font-size: small;
+  letter-spacing: 3px;
+  
+}
+#bord{
+  border-top: 1px solid gray;
+  
+}
+#contact{
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+
+}
+#number{
+  color: white;
+  font-size: small;
+  margin-top: 4px;
+  margin-left: 10px;
+}
+#khan{
+  display: flex;
+}
+#link{
+  text-decoration: none;
+  color: white;
+  font-size: small;
+  margin-left: 17px;
+}
+#email{
+  text-decoration: none;
+  color: white;
+  font-size: small;
+  margin-left: 7px;
+ margin-top: 15px;
+}
+#email:hover{
+  text-decoration: underline;
+}
+#in{
+  text-decoration: none;
+  color: white;
+  font-size: small;
+  margin-left: 8px;
+  margin-top: 5px;
+}
+#loca{
+  color: white;
+  font-size: small;
+  margin-top: 4px;
+  margin-left: 14px;
+}
+#in:hover{
+  text-decoration: underline;
+}
+#bs{
+  color: rgb(0, 110, 255);
+  font-size: small;
+}
+#BS{
+  color: white;
+  font-size: 16px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#uni{
+  color: white;
+  font-size: 13px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-top: -10px;
+}
+#urdu{
+  color: white;
+  font-size: 13px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-top: 10px;
+}
+#profile{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+  font-size:25px;
+  color: #282c34;
+}
+#para{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+#html{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+#list{
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Git{
+  text-decoration: none;
+  color: white;
+  
+}
+#Git:hover{
+  text-decoration: underline;
+}
+#main{
+  box-shadow: 2px 3px 8px 1px  black;
+}
